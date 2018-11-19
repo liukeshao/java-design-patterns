@@ -9,4 +9,5 @@
 
 rootProject.name = 'java-design-patterns'
 include 'reactor'
+include 'delegation'
 
